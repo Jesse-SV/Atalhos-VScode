@@ -1,6 +1,7 @@
 # Atalhos-VScode
 sla utilidade pública (mais para mim mesmo :) )
 
-![Atalhos Windows](./atalhos/atalhos_windows.jpg)
-![Atalhos Linux](./atalhos/atalhos_linux.jpg)
-![Atalhos Windows](./atalhos/atalhos_Mac.jpg)
+![Atalhos insanos do Windows](./atalhos/atalhos_windows.jpg)
+![Atalhos insanos doLinux](./atalhos/atalhos_linux.jpg)
+![Atalhos insanos do Mac](./atalhos/atalhos_mac.jpg)
+Duvido que eu vá ter dinheiro pra usar um Mac né mas tudo bem
