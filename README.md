@@ -2,11 +2,6 @@
 sla utilidade pública (mais para mim mesmo :) )
 
 ## Atalhos insanos do Windows
-![Atalhos insanos do Windows](./atalhos/atalhos_windows.jpg)
-
-# Atalhos para VS Code
-
-Alguns atalhos para VS Code que vão ajudar a aumentar a sua produtividade e facilitar o seu dia a dia como desenvolvedor.
 
 ## Atalhos gerais
 - `Ctrl+Shift+P`, `F1` Exibe a Paleta de Comandos
