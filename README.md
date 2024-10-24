@@ -11,7 +11,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Ctrl+,` Configurações do usuário
 - `Ctrl+K Ctrl+S` Atalhos do teclado
 
-## Edição básica
+### Edição básica
 - `Ctrl+X` Recortar linha (seleção vazia)
 - `Ctrl+C` Copiar linha (seleção vazia)
 - `Alt+↑ / ↓` Mover linha para cima/baixo
