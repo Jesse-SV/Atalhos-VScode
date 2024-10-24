@@ -7,4 +7,4 @@ sla utilidade pública (mais para mim mesmo :) )
 ![Atalhos insanos doLinux](./atalhos/atalhos_linux.jpg)
 ## Atalhos insanos do Mac
 ![Atalhos insanos do Mac](./atalhos/atalhos_mac.jpg)
-Duvido que eu vá ter dinheiro pra usar um Mac né mas tudo bem
+Duvido que eu vá ter dinheiro pra usar um Mac né mas tudo bem (de longe parece um monte de caractere chinês wtfKKKKKKK)
