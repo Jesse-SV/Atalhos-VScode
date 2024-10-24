@@ -3,7 +3,7 @@ sla utilidade pública (mais para mim mesmo :) )
 
 ## Atalhos insanos do Windows
 
-## Atalhos gerais
+### Atalhos gerais
 - `Ctrl+Shift+P`, `F1` Exibe a Paleta de Comandos
 - `Ctrl+P` Acesso rápido, Ir para o arquivo…
 - `Ctrl+Shift+N` Nova janela/instância
