@@ -1,4 +1,3 @@
-# Atalhos-VScode
 sla utilidade pública (mais para mim mesmo :) )
 
 ## Atalhos insanos do Windows
@@ -38,7 +37,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Shift+Alt+A` Alternar comentário de bloco
 - `Alt+Z` Alternar quebra de linha
 
-## Navegação
+### Navegação
 - `Ctrl+T` Exibir todos os símbolos
 - `Ctrl+G` Ir para a linha...
 - `Ctrl+P` Ir para o arquivo...
@@ -50,7 +49,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Alt+← / →` Voltar / Avançar
 - `Ctrl+M` Alternar tabulação movendo o foco
 
-## Busca e substituição
+### Busca e substituição
 - `Ctrl+F` Buscar
 - `Ctrl+H` Substituir
 - `F3 / Shift+F3` Buscar próxima/anterior
@@ -59,7 +58,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Ctrl+K Ctrl+D` Mover última seleção para próxima correspondência de busca
 - `Alt+C / R / W` Alternar sensibilidade a maiúsculas / regex / palavra inteira
 
-## Multicursor e seleção
+### Multicursor e seleção
 - `Alt+Click` Inserir cursor
 - `Ctrl+Alt+↑ / ↓` Inserir cursor acima / abaixo
 - `Ctrl+U` Desfazer última operação do cursor
@@ -73,7 +72,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Ctrl+Shift+Alt+(seta)` Seleção em coluna (caixa)
 - `Ctrl+Shift+Alt+PgUp/PgDn` Seleção em coluna (caixa) página acima/abaixo
 
-## Edição de linguagens avançadas
+### Edição de linguagens avançadas
 - `Ctrl+Espaço`, `Ctrl+I` Acionar sugestão
 - `Ctrl+Shift+Espaço` Acionar dicas de parâmetro
 - `Shift+Alt+F` Formatar documento
@@ -87,7 +86,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Ctrl+K Ctrl+X` Aparar espaços em branco finais
 - `Ctrl+K M` Alterar linguagem do arquivo
 
-## Gerenciamento do editor
+### Gerenciamento do editor
 - `Ctrl+F4`, `Ctrl+W` Fechar editor
 - `Ctrl+K F` Fechar pasta
 - `Ctrl+\` Dividir editor
@@ -96,7 +95,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Ctrl+Shift+PgUp / PgDn` Mover editor para a esquerda/direita
 - `Ctrl+K ← / →` Mover grupo de editores ativo
 
-## Gerenciamento de arquivos
+### Gerenciamento de arquivos
 - `Ctrl+N` Novo Arquivo
 - `Ctrl+O` Abrir Arquivo...
 - `Ctrl+S` Salvar
@@ -112,7 +111,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Ctrl+K R` Revelar arquivo ativo no Explorer
 - `Ctrl+K O` Mostrar arquivo ativo em nova janela/instância
 
-## Exibição
+### Exibição
 - `F11` Alternar tela cheia
 - `Shift+Alt+0` Alternar layout do editor (horizontal/vertical)
 - `Ctrl+= / -` Zoom in/out
@@ -129,7 +128,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `Ctrl+K V` Abrir visualização de Markdown ao lado
 - `Ctrl+K Z` Modo Zen (Esc Esc para sair)
 
-## Depuração
+### Depuração
 - `F9` Alternar ponto de interrupção
 - `F5` Iniciar/Continuar
 - `Shift+F5` Parar
@@ -137,7 +136,7 @@ sla utilidade pública (mais para mim mesmo :) )
 - `F10` Passar por cima
 - `Ctrl+K Ctrl+I` Mostrar hover
 
-## Terminal integrado
+### Terminal integrado
 - `` Ctrl+` `` Mostrar terminal integrado
 - `Ctrl+Shift+` Criar novo terminal
 - `Ctrl+C` Copiar seleção
